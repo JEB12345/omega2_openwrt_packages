@@ -1,6 +1,8 @@
+# Copyright (C) 2019
+#
+#
 
 include $(TOPDIR)/rules.mk
-
 PKG_NAME:=numpy
 PKG_VERSION:=1.16
 PKG_RELEASE:=1
